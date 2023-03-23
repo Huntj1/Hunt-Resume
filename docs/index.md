@@ -22,6 +22,7 @@ I believe great accomplishments can be done when you work together as a team. My
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Healthcare Administration, Major 3.7 GPA
+- Data Analytics, Minor 
 
 
 ## Related Experience
