@@ -50,7 +50,7 @@ __Program Assistant__, BYU_Idaho
 __Physician Liaison__, Teton Radiology
 
 `2019-2020`
-__Service Missionary__, Guam, USA
+__Church Service__, Guam, USA
 
 ### Data Science Skills
 MySQL / Python:PANDAS / BaseR:DPLYR
